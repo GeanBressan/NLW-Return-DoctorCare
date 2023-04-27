@@ -2,5 +2,5 @@
 Projeto desenvolvido na **NLW Return** da **Rocktseat**
 ----------------
 [DoctorCare](https://geanbressan.github.io/NLW-Return-DoctorCare)
-<img src="./assets/desktop-preview.png" alt="Preview do projeto Desktop">
-<img src="./assets/mobile-preview.png" alt="Preview do projeto Mobile">
+![Preview do projeto Desktop](./assets/desktop-preview.png)
+![Preview do projeto Mobile](./assets/mobile-preview.png)
